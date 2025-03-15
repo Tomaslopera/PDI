@@ -23,8 +23,8 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 1. Clona este repositorio:
 ```bash
-git clone 
+git clone https://github.com/Tomaslopera/PDI.git
 
-1. Instala las dependencias necesarias:
+2. Instala las dependencias necesarias:
 
 pip install -r requirements.txt
